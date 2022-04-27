@@ -1,2 +1,1 @@
-# Bootstrap
-Installation script for my Arch workstation.
+# Bootstrap: Installation script for my Arch workstation.
